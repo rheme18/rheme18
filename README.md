@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Emir Aras Koç (rheme18) 👋
 
-<!--
-**rheme18/rheme18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An **Open Source Software and AI Developer** based in Turkey, focused on building efficient desktop applications, web technologies, and local AI integrations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Core Projects
+* **[RhemeSetup](https://github.com/rheme18)**: A modern, open-source Windows post-installation assistant & system optimization utility.
+* **RhemeWebUI**: Lightweight user interface engineered for running and interacting with local AI models.
+
+---
+
+### 🛠️ Tech Stack & Tools
+`JavaScript` `Node.js` `Electron` `Python` `TailwindCSS` `Linux` `Git`
+
+---
+
+### 🌐 Connect With Me
+* **Website:** [rheme18.vercel.app](https://rheme18.vercel.app)
+* **DEV Community:** [@rheme18](https://dev.to/rheme18)
+* **Instagram:** [@rhcorleone](https://instagram.com/rhcorleone)
+* **TikTok:** [@rheme18](https://tiktok.com/@rheme18)
