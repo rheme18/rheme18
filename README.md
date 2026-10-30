@@ -1,4 +1,4 @@
-# Hi there, I'm Emir Aras Koç (rheme18) 👋
+# Hi there, I'm Emir (rheme18) 👋
 
 An **Open Source Software and AI Developer** based in Turkey, focused on building efficient desktop applications, web technologies, and local AI integrations.
 
