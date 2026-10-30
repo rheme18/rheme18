@@ -6,7 +6,7 @@ An **Open Source Software and AI Developer** based in Turkey, focused on buildin
 
 ### 🚀 Core Projects
 * **[RhemeSetup](https://github.com/rheme18)**: A modern, open-source Windows post-installation assistant & system optimization utility.
-* **[Jarvis](https://github.com/rheme18/jarvis-v4-windows)**: Local Desktop Voice-to-Text Assistant for Windows.
+* **[Jarvis v4](https://github.com/rheme18/jarvis-v4-windows)**: Local Desktop Voice-to-Text Assistant for Windows.
 
 ---
 
