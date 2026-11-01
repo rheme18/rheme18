@@ -1,6 +1,6 @@
 # Hi there, I'm Emir (rheme18) 👋
 
-An **Open Source Software and AI Developer** based in Turkey, focused on building efficient desktop applications, web technologies, and local AI integrations.
+An **Open Source Software and AI Developer** based in Turkey, Founder & Lead Architect @RhemeCore focused on building efficient desktop applications, web technologies, and local AI integrations.
 
 ---
 
