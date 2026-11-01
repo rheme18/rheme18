@@ -16,7 +16,7 @@ An **Open Source Software and AI Developer** based in Turkey, focused on buildin
 ---
 
 ### 🌐 Connect With Me
-* **Website:** [rheme.vercel.app](https://rheme.vercel.app)
+* **Website:** [rheme18.github.io](https://rheme18.github.io)
 * **DEV Community:** [@rheme18](https://dev.to/rheme18)
 * **Instagram:** [@rhcorleone](https://instagram.com/rhcorleone)
 * **TikTok:** [@rheme181](https://tiktok.com/@rheme181)
