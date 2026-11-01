@@ -1,4 +1,4 @@
-# Hi there, I'm Emir (rheme18) 👋
+### Rheme18 (Emir Aras Koç) is Founder & Lead Architect at RhemeCore | Software & AI Developer
 
 An **Open Source Software and AI Developer** based in Turkey, Founder & Lead Architect @RhemeCore focused on building efficient desktop applications, web technologies, and local AI integrations.
 
