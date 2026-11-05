@@ -2,6 +2,8 @@
 
 An **Open Source Software and AI Developer** based in Turkey, Founder & Lead Architect @RhemeCore focused on building efficient desktop applications, web technologies, and local AI integrations.
 
+[![Reddit](https://img.shields.io/badge/Reddit-r%2FRhemeCore-FF4500?style=for-the-badge&logo=reddit)](https://reddit.com/r/RhemeCore)
+
 ---
 
 ### 🚀 Core Projects
